@@ -85,7 +85,7 @@ One of the value propositions of such services is their prompt templates used fo
 **Tradeoffs**: Immediate feedback, but more complex parsing + potential for intermediate invalid JS leading to flicker
 
 ## Multi-tenant Isolation
- - Authentication via API Gateway (OAuth/JWT)
+ - Authentication via Auth Service (OAuth/JWT)
  - Server enforces tenant scoping for every operation
  - Sandboxes labeled with tenant ID and served only to their owners
 
