@@ -1,6 +1,7 @@
 # Quick Notes
 I'm not very proficient in LLM integrations and haven't worked on something like this before, but I did my best after some research :)
 It took me several hours to prepare this complex analysis.
+To be fair, I should mention that AI helped me a lot by pointing out weak spots in my ideas. Because of your open approach to AI tools, I thought it would be acceptable to get some help from it.
 
 # Problem Statement
 Design a system similar to v0.dev that generates interactive React components from natural language prompts and renders them in real-time.
